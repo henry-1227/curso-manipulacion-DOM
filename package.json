@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tu-nombre-de-usuario.github.io/el-nombre-de-tu-repo",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

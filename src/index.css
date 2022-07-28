@@ -1,3 +1,16 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+#app {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.cardContainer {
+    min-width: 350px;
+    height: 144px;
+}
