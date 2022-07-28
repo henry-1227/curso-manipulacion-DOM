@@ -30,7 +30,10 @@ window
             //Crear titulo
             const title = document.createElement('h2');
             title.textContent = item.name;
-            title.className = "text-lg"
+            title.className = "text-lg";
+            title.addEventListener("click", () => {
+                window.alert("Hola");
+            });
 
             //Crear precio
             const price = document.createElement('div');
