@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tu-nombre-de-usuario.github.io/el-nombre-de-tu-repo",
+  "homepage": "https://github.com/henry-1227/curso-manipulacion-DOM",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
