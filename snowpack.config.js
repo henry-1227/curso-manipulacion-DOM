@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/henry-1227/curso-manipulacion-DOM',
+    baseUrl: 'https://henry-1227.github.io/curso-manipulacion-DOM/',
   },
 }
